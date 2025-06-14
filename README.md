@@ -49,9 +49,8 @@ ExpenseTracker is a web application that allows users to manage and track their 
 
     npm start
     
-     or
-     
-   yarn start
+     # or
+    yarn start
    
 
 4. Open the app in your browser at http://localhost:3000

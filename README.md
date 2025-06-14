@@ -52,18 +52,18 @@ yarn start
 4. Open the app in your browser at http://localhost:3000
 
 
-   ##Features
+## Features
 
    
-Register and log in securely
+1.Register and log in securely
 
 
-Add and categorize expenses
+2.Add and categorize expenses
 
 
-View history and analytics of your spending
+3.View history and analytics of your spending
 
 
-User-friendly and responsive interface
+4.User-friendly and responsive interface
 
 

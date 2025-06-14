@@ -77,11 +77,11 @@ ExpenseTracker is a web application that allows users to manage and track their 
 3.Start the development server:
 
 npm start
-# or
+ or
 yarn start
 
 4. Open the app in your browser at http://localhost:3000
-Features
+#Features
 Register and log in securely
 Add and categorize expenses
 View history and analytics of your spending

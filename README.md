@@ -5,7 +5,7 @@
 ## Demo
 
 Try the live demo here:  
-**[https://expensetracker-green-three.vercel.app/register](https://expensetracker-green-three.vercel.app/register)**
+**[https://expensetracker-green-three.vercel.app/register](https://expensetracker-green-three.vercel.app)**
 
 ## Overview
 

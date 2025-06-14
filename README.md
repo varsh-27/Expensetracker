@@ -37,17 +37,15 @@ ExpenseTracker is a web application that allows users to manage and track their 
 
 
 2.Install dependencies:
-  npm install
+ ``` npm install
     # or
   yarn install
 
 3.Start the development server:
 
-npm start
-
- or
- 
-yarn start
+ ``npm start
+     or
+   yarn start
 
 4. Open the app in your browser at http://localhost:3000
 

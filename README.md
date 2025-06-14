@@ -86,9 +86,17 @@ yarn start
 
 
    ##Features
+
+   
 Register and log in securely
+
+
 Add and categorize expenses
+
+
 View history and analytics of your spending
+
+
 User-friendly and responsive interface
 
 

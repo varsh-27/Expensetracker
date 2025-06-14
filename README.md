@@ -37,6 +37,7 @@ ExpenseTracker is a web application that allows users to manage and track their 
 
 
 2.Install dependencies:
+
     npm install
     
      # or
@@ -44,6 +45,7 @@ ExpenseTracker is a web application that allows users to manage and track their 
     yarn install
 
 3.Start the development server:
+
 
     npm start
     
